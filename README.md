@@ -4,7 +4,7 @@ Interfaz contenido educativo - Prueba técnica
 # Verificación de prueba funcional
 
 1. Descargue el repositorio, lo puede descargar como Zip o clonar.
-2. Extra
+2. Si lo descarga como .zip, extraiga la carpeta y ábrala
 3. Abra el archivo index.html con el navegador Chrome
 
 # Verificación responsive
