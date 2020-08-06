@@ -1,0 +1,118 @@
+#header {
+    background: #565a5c;
+}
+
+#header img {
+    width: 250px;
+    padding-left: 50px;
+}
+
+#footer{
+    background: #071d49;
+    color: white;
+}
+
+#footer img{
+    width: 100px;
+}
+
+.container-fluid{
+    background-color: #00b5e2;
+}
+
+.card{
+    padding: 10px 5px;
+    border-radius: 0px 0px 20px 20px!important;;
+
+}
+
+#menu_background{
+    background: #071d49;
+    padding: 10px 80px;
+}
+
+.bg-primary {
+    background-color: #39db79!important;
+}
+
+#menu{
+    border-radius: 50px 50px 50px 50px;
+    padding: 0px 60px;
+}
+
+#menu{
+    border-radius: 50px 50px 50px 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#background{
+    padding-bottom: 80px;
+}
+
+#cards{
+    background-color: white;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.btn-outline-primary{
+    border: none;
+    color: #071d49;
+}
+
+.badge-secondary {
+    font-size: x-small;
+    color: #6c757d;
+    background-color: #fff;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.h6, h6{
+    letter-spacing: 1px;
+    line-height: 37px;
+    color: #071d49;
+}
+
+.h5, h5{
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 37px;
+    color: #071d49;
+}
+
+.p, p{
+    font-size: 10px;
+    color: #071d49;
+    font-weight: 400;
+}
+
+.navbar-light .navbar-brand {
+    color: #071d49;
+}
+
+.btn-outline-primary:not(:disabled):not(.disabled).active,
+.btn-outline-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #071d49;
+    border-color: #071d49;
+}
+
+.form-inline .form-control {
+    border-radius: 50px 50px 50px 50px;
+}
+
+.fa-search:before {
+    content: "\f002";
+    color: white;
+}
+
+button, select {
+    text-transform: none;
+    background-color: #071d49;
+    border-radius: 50px 50px 50px 50px;
+}
+
