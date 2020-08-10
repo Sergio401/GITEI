@@ -1,6 +1,9 @@
 # GITEI
 Interfaz contenido educativo - Prueba técnica
 
+# La página la puedes ver en:
+https://sergio401.github.io/GITEI/index.html
+
 # Verificación de prueba funcional
 
 1. Descargue el repositorio, lo puede descargar como Zip o clonar.
