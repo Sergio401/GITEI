@@ -11,7 +11,7 @@ https://sergio401.github.io/GITEI/index.html
 3. Abra el archivo index.html con el navegador Chrome
 
 # Verificación responsive:
-Para ver el responsive design de la página, podrá acceder desde un celular a:
+Para ver el responsive design de la página, podrá acceder desde cualquier dispositivo a:
 https://sergio401.github.io/GITEI/index.html
 
 A través de las herramientas de chrome podrá ver el funcionamiento de la página en responsive
