@@ -1,3 +1,5 @@
+/* Header */
+
 #header {
     background: #565a5c;
 }
@@ -7,43 +9,16 @@
     padding-left: 50px;
 }
 
-#footer{
-    background: #071d49;
-    color: white;
-}
+/* Body */
 
-#footer img{
-    width: 100px;
-}
-
-.container-fluid{
-    background-color: #00b5e2;
-}
-
-.card{
-    padding: 10px 5px;
-    border-radius: 0px 0px 20px 20px!important;;
-
+#menu{
+    border-radius: 50px 50px 50px 50px;
+    padding: 10px 32px;
 }
 
 #menu_background{
     background: #071d49;
     padding: 10px 80px;
-}
-
-.bg-primary {
-    background-color: #39db79!important;
-}
-
-#menu{
-    border-radius: 50px 50px 50px 50px;
-    padding: 0px 60px;
-}
-
-#menu{
-    border-radius: 50px 50px 50px 50px;
-    padding-left: 50px;
-    padding-right: 50px;
 }
 
 #background{
@@ -56,6 +31,32 @@
     padding-right: 30px;
     padding-left: 30px;
     border-radius: 0px 0px 20px 20px;
+}
+
+/* Footer */
+
+#footer{
+    background: #071d49;
+    color: white;
+}
+
+#footer img{
+    width: 100px;
+}
+
+/* Bootstrap Elements */
+
+.container-fluid{
+    background-color: #00b5e2;
+}
+
+.card{
+    padding: 10px 5px;
+    border-radius: 0px 0px 20px 20px!important;
+}
+
+.bg-primary {
+    background-color: #39db79!important;
 }
 
 .btn-outline-primary{
@@ -94,6 +95,11 @@
     color: #071d49;
 }
 
+.btn{
+    text-align: left;
+}
+
+
 .btn-outline-primary:not(:disabled):not(.disabled).active,
 .btn-outline-primary.dropdown-toggle {
     color: #fff;
@@ -101,18 +107,53 @@
     border-color: #071d49;
 }
 
-.form-inline .form-control {
-    border-radius: 50px 50px 50px 50px;
-}
 
 .fa-search:before {
     content: "\f002";
     color: white;
 }
 
+button:focus{
+    background: #071d49;
+    color: white;
+}
+
 button, select {
     text-transform: none;
+    text-align: left;
     background-color: #071d49;
     border-radius: 50px 50px 50px 50px;
 }
 
+
+.form-control{
+      display:flex;
+      flex-direction:row;
+      width: 100%;
+      border-radius: 50px 50px 50px 50px;
+      border:1px solid lightgray;
+      padding:2px;
+}
+
+input {
+      flex-grow:2;
+      border:none;
+      width: 145px;
+      padding-left: 9px;
+      border-radius: 50px 50px 50px 50px;
+}
+
+input:focus {
+      outline: none;
+}
+
+.pagination{
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 70px;
+}
+
+.page-link{
+    border: none;
+    color: #071d49;
+}
